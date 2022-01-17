@@ -6,7 +6,7 @@
 El siguiente proyecto tiene como finalidad desarrollar un sitio web para la venta de libros en formato físico y digital.
 
 
-###Público objetivo
+###Público objetivo:
 Apuntará a una audiencia o público objetivo cuyo rango etario se ubica entre los 16 y 80 años (o más), ofreciendo la posibilidad de escoger a partir de diversas categorías como por ejemplo, literatura y lingüísticos, biografías, libro de texto, libros de gran formato (coffee table book), de referencia o consulta.
 
 
@@ -24,7 +24,7 @@ El equipo está conformado por:
 - **Arce, Federico**: Diseñador UX/UI, Gráfico, Profesor Pintura.
 - **Juárez, Marisol**: Docente Universitaria, en el área de computación.
 - **Franco, Saraí**: Docente de nivel inicial en busca de nuevos desafíos y aprendizajes.
-- **Molina Urrutia, Margaret Vanessa**: Edicion para Margaret.
+- **Molina Urrutia, Margaret Vanessa**: 
 
 ###Listado de Referencias
 

@@ -7,35 +7,37 @@ El siguiente proyecto tiene como finalidad desarrollar un sitio web para la vent
 
 
 ###Público objetivo
-Apuntará a un público  diverso, nuestra audiencia o público objetivo se orienta al público general entre las edades de 16 a 80 años o más, ofreciendo la posibilidad de escoger entre diversas categorías como por ejemplo, literatura y lingüísticos, biografías, libro de texto, libros de gran formato (_coffee table book_), de referencia o consulta, entre muchos otros.
+Apuntará a una audiencia o público objetivo cuyo rango etario se ubica entre los 16 y 80 años (o más), ofreciendo la posibilidad de escoger a partir de diversas categorías como por ejemplo, literatura y lingüísticos, biografías, libro de texto, libros de gran formato (coffee table book), de referencia o consulta.
+
 
 ######Oferta a los lectores:
 - **Sin registro**. Los visitantes podrán consultar y visualizar la información básica del libro sin necesidad de registrarse.
 - **Con registro**. Si el visitante se registra, tendrá la ventaja de acceder a una _review_ al momento del lanzamiento de un libro (un adelanto del mismo y características de la edición en formato de infografía).
-- **Merchandising visual**.  Con esto se busca un puente entre nuestro sitio, nuestra librería y las redes sociales, generando un _feedback_ mayor con un público determinado, consumidor de redes sociales y que buscamos atraer al ámbito de los libros.
-A través de exhibiciones creativas, lo que atrae a los usuarios. 
-######Oferta a los lectores:
-- Ofrecer un _Crowdfunding_ para la edición digital de libros, con beneficios para el autor al poder promocionar su libro en una plataforma con un público propio y con la ventaja de contar con los _features_ de la plataforma (_reviews_ e infografías). A su vez la plataforma cobra una comisión sobre cada unidad vendida, eventualmente.
+- **Merchandising visual**.   A partir de diversos productos (remeras, gorras, por ejemplo), se busca un puente entre nuestro sitio, nuestra librería y las redes sociales, generando un feedback mayor con un público determinado, consumidor de redes sociales y que buscamos atraer al ámbito de los libros.
+
+######Oferta a los escritores:
+- Ofrecer un Crowdfunding para la edición digital de libros, con beneficios para el autor al poder promocionar su libro en una plataforma con un público propio. Los lectores, tendrán  la ventaja de contar con los features de la plataforma (reviews e infografías). A su vez la plataforma cobra una comisión sobre cada unidad vendida, eventualmente.
+
 
 ###Acerca de los integrantes del equipo
 El equipo está conformado por:
 - **Arce, Federico**: Diseñador UX/UI, Gráfico, Profesor Pintura.
 - **Juárez, Marisol**: Docente Universitaria, en el área de computación.
 - **Franco, Saraí**: Docente de nivel inicial en busca de nuevos desafíos y aprendizajes.
-- **Molina Urrutia, Margaret Vanessa**:
-
+- **Molina Urrutia, Margaret Vanessa**: Edicion para Margaret.
 
 ###Listado de Referencias
 
 * [Amazon](https://www.amazon.com/-/es/ "¡Visita Amazon!"). Es la compañía más grande a nivel global, y una de las primeras en ofrecer libros a través de internet tanto en formato digital como físico.
 
-* [Mercado libre](https://www.mercadolibre.com.ar/ "¡Visita Mercado libre!"). Es una empresa Argentina dedicada al comercio electrónico en Latinoamérica líder de comercio electrónico y fintech de la región con una colección de libros en Argentina y al mejor precio!
+* [Mercado libre](https://www.mercadolibre.com.ar/ "¡Visita Mercado libre!"). Es una empresa Argentina dedicada al comercio electrónico y fintech, líder y referente en América Latina. 
 
-* [The Last Bookstore](https://www.lastbookstorela.com/soop-books "¡Visita The Last Bookstore!"). Es un loft en el centro de Los Ángeles. Vendieron libros y otras cosas solo en línea, luego se enfocaron en libros. La estética del sitio, el predominio de lo visual y la calidad de las imágenes.
+* [The Last Bookstore](https://www.lastbookstorela.com/soop-books "¡Visita The Last Bookstore!"). Es un loft en el centro de Los Ángeles. Vendieron libros y otros productos sólo en línea, luego se enfocaron en libros. La estética del sitio, el predominio de lo visual y la calidad de las imágenes, han sido elementos de nuestro interés. 
 
-* [Word on the Water](https://www.wordonthewater.co.uk/ "¡Visita Word on the Water!"). Foto típica de red social. Imágenes cuidadas.
+* [Word on the Water](https://www.wordonthewater.co.uk/ "¡Visita Word on the Water!"). Lo atractivo de este sitio son sus imágenes, su logo, y la cercanía al  interactuar con el usuario. 
 
-* [Lecturita](https://lecturita.com.ar/ "¡Visita Lecturita!"). Redes sociales y el enfoque hacia los niños, identidad de marca basada en la creación de personajes infantiles. 
+* [Lecturita](https://lecturita.com.ar/ "¡Visita Lecturita!"). Nos interesó su identidad de marca basada en la creación de personajes infantiles. El sitio es muy atractivo desde su estética con un marcado enfoque hacia los niños. 
+La red social Instagram es un recurso aprovechado desde el marketing, que además aporta  imágenes cuidadas y en armonía con el resto de elementos visuales. 
 
 * [Gandhi](https://www.gandhi.com.mx/ "¡Visita Gandhi!"). Ejemplo de librerías afianzadas, con un servicio bien definido, con diseño clásico. La paleta de colores responde a la identidad de la tienda física. 
 

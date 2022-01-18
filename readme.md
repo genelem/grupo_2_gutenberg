@@ -24,7 +24,7 @@ El equipo está conformado por:
 - **Arce, Federico**: Diseñador UX/UI, Gráfico, Profesor Pintura.
 - **Juárez, Marisol**: Docente Universitaria, en el área de computación.
 - **Franco, Saraí**: Docente de nivel inicial en busca de nuevos desafíos y aprendizajes.
-- **Molina Urrutia, Margaret Vanessa**: 
+- **Molina Urrutia, Margaret Vanessa**: Analista de Sistemas, con ganas de aprender cosas nuevas del mundo de la tecnología 
 
 ###Listado de Referencias
 

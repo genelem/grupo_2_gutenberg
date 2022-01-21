@@ -20,4 +20,6 @@ Seguir con la división de tareas en base a la fortaleza de cada uno, pero con f
 
 Idear como crear un repositorio ad hoc para el proyecto.
 
-###Dejar de hacer: Dejar de usar herramientas como Miró, que encontramos útiles, pero valoramos más el uso de Trello.
+###Dejar de hacer: 
+
+Dejar de usar herramientas como Miró, que encontramos útiles, pero valoramos más el uso de Trello.

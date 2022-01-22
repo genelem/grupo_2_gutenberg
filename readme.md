@@ -1,5 +1,10 @@
 #Gutenberg - Proyecto integrador Equipo 2 
 
+###Tablero de trabajo
+
+[Trello Gutenberg](https://trello.com/invite/b/mY5Q7AjP/8238823880d699775e4a45d2a54b73de/dh "¡Visita nuestro tablero de trabajo!")
+
+
 ###Temática del sitio
 > **_“Hay grandes libros en el mundo y grandes mundos en los libros”._**
 

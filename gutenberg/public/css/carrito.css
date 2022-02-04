@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Gutenberg index</title>
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="normalize.css">
+        <link rel="stylesheet" href="css/carrito.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/c1eae85dfa.js" cross></script>
+      </head>
+
+<!-- header -->
+
+<header>
+    <img class="isologo" src="img\isologomoradosmall.png">
+    <nav>
+    <input type="checkbox" id="check">
+      <label for="check" class="btn_menu">
+          <i class="fas fa-bars"></i>
+      </label>
+      <ul>
+          <li><a class="active" href="/">Inicio</a></li>
+          <li><a href="#">Géneros</a></li>
+          <li><a href="#">Ofertas</a></li>
+          <li><a href="#">Crowfounding</a></li>
+          <li><a href="/carrito-compras">Carrito de compras</a></li>
+          <li><a href="/registro">Registro</a></li>
+          <li><a href="/login">Login</a></li>
+      </ul> 
+      </nav>     
+  </header>
+    <div class="lowerbar">
+      <div class="search">
+      <input class="searchbar" type="text" placeholder="buscar" required>
+      </div>
+      <div class="lupa"><i class="fas fa-search"></i>
+      </div>
+      <span class="profile"><i class="far fa-user-circle"></i></span>
+      <span class="cart"><i class="fas fa-shopping-cart"></i></span>
+  </div>
+
+<!-- main -->
+
+<main>
+
+    <section class="candadito">
+        <div class="caja-proceso-candado">
+            <div>
+                <img class="logo-candado" src="img/dashicons_lock-alt.svg" alt="">
+            </div>
+            <div>
+                <p>Inicia tu proceso de compra</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="productos-carrito">
+            <div class="imagen-datos">
+                <!-- <div class="img-libro">
+                    <img src="/img/clubPsicopatas_1.svg" alt="">
+                </div> -->
+                <div class="caja-datos">
+                    <div class="datos">
+                        <h4 class="parrafos titulo"><strong>EL CLUB DE LOS PSICÓPATAS</strong></h4>
+                        <p class="parrafos"></p>
+                        <p class="parrafos par">Autor: <strong>John Katzenbach</strong></p>
+                        <p class="parrafos par">ISBN: 9789877802443</p>
+                    </div>
+                </div>
+            </div >
+            
+            <div class="select-precio">
+                <div class="select-parrafo">
+                    <select class="select" name="select">
+                        <option value="value1">1</option>
+                        <option value="value2" selected>2</option>
+                        <option value="value3">3</option>
+                      </select>
+                      <p class="eliminar"><a href="#">Eliminar</a></p>
+                </div>
+
+                <div class="precio">
+                    <p>AR$ 3.149,00</p>
+                </div>
+            </div>
+    </section>
+<!-- otro libro -->
+    <section class="productos-carrito">
+        <div class="imagen-datos">
+            <!-- <div class="img-libro">
+                <img src="/img/sieteMaridos_1.svg" alt="">
+            </div> -->
+            <div class="caja-datos">
+                <div class="datos">
+                    <h4 class="parrafos titulo"><strong>LOS SIETE MARIDOS DE EVELYN HUGO</strong></h4>
+                    <p class="parrafos"></p>
+                    <p class="parrafos par">Autor: <strong>Tylor Junkins Reid</strong></p>
+                    <p class="parrafos par">ISBN: 9789874777737</p>
+                </div>
+            </div>
+        </div >
+        <div class="select-precio">
+            <div class="select-parrafo">
+                <select name="select">
+                    <option value="value1" selected>1</option>
+                    <option value="value2">2</option>
+                    <option value="value3">3</option>
+                  </select>
+                  <p class="eliminar"><a href="#">Eliminar</a></p>
+            </div>
+            <div class="precio">
+                <p>AR$ 3.149,00</p>
+            </div>
+        </div>
+</section>
+</main>
+
+<footer>
+        <div class="footerbold">Gutenberg</div>
+        <div>Contacto</div>
+        <div>Política de privacidad</div>
+        <div>Guía de compra</div>
+        <div>Atención al cliente</div>
+        <div>Promociones</div>
+        <div>Preguntas frecuentes</div>
+
+      <div class="copyright">
+        <h6>Copyright © 2022 Gutenberg Libros S.A.</h6>
+    </div>
+</footer>
+
+</body>
+</html>

@@ -1,7 +1,6 @@
 {
   "name": "para-proyecto",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "nodemon app.js"
@@ -12,5 +11,6 @@
   "dependencies": {
     "express": "^4.17.2",
     "nodemon": "^2.0.15"
-  }
+  },
+  "description": ""
 }

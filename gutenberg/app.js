@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 
-app.listen(3030, () => console.log('Servidor en funcionamiento'));
+app.listen(3030, () => console.log('Servidor en funcionamiento en el puerto 3030'));
 
 app.use(express.static('public'));
 //consumir index

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Gutenberg Libros</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+        <link rel="stylesheet" href="css/fontello.css">
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="css/registro.css">
+        <script src="https://kit.fontawesome.com/c1eae85dfa.js" cross></script>
+    </head>
+
+    <body>
+        <header>
+            <div class="contenedor">
+                <img class="logo" src="../img/isologomoradosmall.png" alt="gutenberg logo">
+                <input type="checkbox" id="menu-bar">
+                <label class="icon-menu" for="menu-bar"></label>
+                <nav class="menu">
+                    <a class="active" href="/">Inicio</a>
+                    <a href="#">Géneros</a>
+                    <a href="#">Ofertas</a>
+                    <a href="#">Crowfounding</a>
+                    <a href="/detalle-producto">Detalle producto</a>
+                    <a href="/carrito-compras">Carrito de compras</a>
+                    <a href="/registro">Registro</a>
+                    <a href="/login">Login</a>                
+                </nav>
+            </div>
+            <div class="lowerbar">  
+                <form>
+                    <input class="searchbox" type="text" placeholder="Buscar">
+                    <button type="submit" class="fa fa-search"></button>
+                  </form>
+                </div>
+            </div>
+        </header>
+        <form  method="get" class="create-formlogin">
+            <h2>Iniciar Sesion</h2>
+       
+              <div>
+                  <br>
+                  <label>Nombre de Usuario</label>
+                  <br>
+                  <input type="login" name="loginUsuario" id="loginUsuario" required>
+              </div>
+      
+              <div>
+                  <br>
+                  <label>Password</label>
+                  <br>
+                  <input type="password" name="password" id="password" required>
+              </div>
+              <br>
+              <div>
+                  <br>
+                  <button type="login" value="Ingresar y volver al Home" class="boton-personalizado boton-personalizado booktitle"><a href="/">Iniciar Sesion</a></button>
+              </div>
+      
+              <div>
+                  <br>
+                  <button type="registro" value="Registrarse" class="boton-personalizado boton-personalizado booktitle"><a href="/registro">Registrarme</a></button>
+              </div>
+          </form>
+          
+        <footer>
+            <div class="container">
+                <div>Gutenberg</div>
+                <div>Contacto</div>
+                <div>Política de privacidad</div>
+                <div>Guía de compra</div>
+                <div>Atención al cliente</div>
+                <div>Promociones</div>
+                <div>Preguntas frecuentes</div>
+            </div>
+            <div class="copyright">
+                <h6>Copyright © 2022 Gutenberg Libros S.A.</h6>
+            </div>
+        </footer>
+    </body>

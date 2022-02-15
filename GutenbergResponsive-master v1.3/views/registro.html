@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Gutenberg Libros</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+        <link rel="stylesheet" href="css/fontello.css">
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="css/registro.css">
+        <script src="https://kit.fontawesome.com/c1eae85dfa.js" cross></script>
+    </head>
+
+    <body>
+        <header>
+            <div class="contenedor">
+                <img class="logo" src="../img/isologomoradosmall.png" alt="gutenberg logo">
+                <input type="checkbox" id="menu-bar">
+                <label class="icon-menu" for="menu-bar"></label>
+                <nav class="menu">
+                    <a class="active" href="/">Inicio</a>
+                    <a href="#">Géneros</a>
+                    <a href="#">Ofertas</a>
+                    <a href="#">Crowfounding</a>
+                    <a href="/detalle-producto">Detalle producto</a>
+                    <a href="/carrito-compras">Carrito de compras</a>
+                    <a href="/registro">Registro</a>
+                    <a href="/login">Login</a>                
+                </nav>
+            </div>
+            <div class="lowerbar">  
+                <form>
+                    <input class="searchbox" type="text" placeholder="Buscar">
+                    <button type="submit" class="fa fa-search"></button>
+                  </form>
+                </div>
+            </div>
+        </header>
+<form  method="get" class="create-form">
+    <h2>Registro de Usuario</h2>
+    
+        <div>
+            <br>
+            <label>Nombres</label>
+            <br>
+            <input type="text" name="nombre" id="nombre" required>
+        </div>
+
+        <div>
+            <br>
+            <label>Apellidos</label>
+            <br>
+            <input type="text" name="apellido" id="apellido" required>
+        </div>
+        
+        <div>
+            <br>
+            <label>Email</label>
+            <br>
+            <input type="email" name="correo" id="email" required>
+        </div>
+
+        <div>
+            <br>
+            <label>Confirmar Email</label>
+            <br>
+            <input type="email" name="check_email" id="check_email"  required>
+        </div>
+
+        <div>
+            <br>
+            <label>Password</label>
+            <br>
+            <input type="password" name="password" id="password" required>
+        </div>
+
+        <div>
+            <br>
+            <label>Confirmar Password</label>
+            <br>
+            <input type="password" name="check_password" id="check_password" required>
+        </div>
+        <br>
+        <label class="categorias">Categorias de Interés:
+            <div>
+            <label> <input type="checkbox" name="interes" value="Comedia">Comedia</label>
+            <label> <input type="checkbox" name="interes" value="Accion">Accion</label>
+            <label> <input type="checkbox" name="interes" value="Romance">Romance</label>
+            <label> <input type="checkbox" name="interes" value="Infantiles">Infantiles</label>
+            <label> <input type="checkbox" name="interes" value="Editoriales">Editoriales</label>
+            </div>
+        </label>
+
+        <label class="perfilUsuario"> <!--En radio se pone required en una opción-->   
+            <div for="perfilUsuario">Perfil de Usuario:
+                    <div>
+                    <br>
+                    <input type="radio" name="perfilUsuario" id="perfilUsuario" required>Publicar Libros
+                    <input type="radio" name="perfilUsuario" id="perfilUsuario">Leer Libros 
+                    </div>
+                </div>  
+            </label>
+
+        <div>
+            <br>
+            <label> <input type="checkbox" name="novedades" value="Email"> Si, Deseo recibir novedades</label>
+        </div>
+        
+        <br>
+        <div>
+            <br>
+            <button type="submit" value="Guardar y volver al Home" class="boton-personalizado"><a href="/">Guardar</a></button>
+        </div>
+
+        <div>
+            <br>
+            <button type="reset" value="Borrar" class="boton-personalizado"><a href="/registro">Registrarme</a></button>
+        </div>
+
+    </form>
+    <footer>
+        <div class="container">
+            <div>Gutenberg</div>
+            <div>Contacto</div>
+            <div>Política de privacidad</div>
+            <div>Guía de compra</div>
+            <div>Atención al cliente</div>
+            <div>Promociones</div>
+            <div>Preguntas frecuentes</div>
+        </div>
+        <div class="copyright">
+            <h6>Copyright © 2022 Gutenberg Libros S.A.</h6>
+        </div>
+    </footer>
+    
+</body> 

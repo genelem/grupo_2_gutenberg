@@ -4,6 +4,9 @@ const express = require('express');
 //TODO: agregar el router
 const router = express.Router();
 
+//TODO: agregar Multer
+const multer = require('multer');
+
 //TODO: agregar el mainController
 const productController = require('../controllers/productController');
 

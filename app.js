@@ -7,6 +7,7 @@ const logger = require('morgan');
 const indexRouter = require('./routes/index');
 const userRouter = require('./routes/userRouter');
 const productRouter = require('./routes/productRouter');
+const { METHODS } = require('http');
 
 const app = express();
 
@@ -20,6 +21,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public'))); // Define la ubicación de la carpeta de las Vistas
+//app.use(methodOverride("_method"));
 
 // Rutas
 app.use("/", indexRouter);

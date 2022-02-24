@@ -32,4 +32,3 @@
 ### Dejar de hacer (Stop doing): 
 
 * Que cada integrante avance sin supervisión.
-

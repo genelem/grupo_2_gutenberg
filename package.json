@@ -19,5 +19,14 @@
   "devDependencies": {},
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "[Trello Gutenberg](https://trello.com/invite/b/mY5Q7AjP/8238823880d699775e4a45d2a54b73de/dh \"¡Visita nuestro tablero de trabajo!\")",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjc14872/grupo_2_gutenberg.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mjc14872/grupo_2_gutenberg/issues"
+  },
+  "homepage": "https://github.com/mjc14872/grupo_2_gutenberg#readme"
 }

@@ -10,7 +10,14 @@ const productController = {
     carritoCompras: function(req, res){
         res.render("carrito-compras");
     },
+	create: function(req, res){
+        res.render("crear-producto");
+    },
+	edit:function(req, res){
+        res.render("editar-producto");
+	}
 };
+
 
 
 //TODO: agregar exportar el modulo

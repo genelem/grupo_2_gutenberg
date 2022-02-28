@@ -14,5 +14,12 @@ const productController = require('../controllers/productController');
 router.get("/detalle-producto", productController.detalleProducto);
 router.get("/carrito-compras", productController.carritoCompras);
 
+//Crear producto
+router.get("/create", productController.create); 
+//editar producto
+router.get("/edit", productController.edit);
+
+
+
 //TODO: agregar el modulo
 module.exports = router;
